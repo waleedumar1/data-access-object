@@ -1,0 +1,22 @@
+{
+  "name": "data-access-object",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Waleed Umar",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^10.1.1"
+  },
+  "dependencies": {
+    "loopback-datasource-juggler": "^3.23.0",
+    "@loopback/context": "^0.12.4",
+    "@loopback/rest": "^0.19.4"
+  }
+}
